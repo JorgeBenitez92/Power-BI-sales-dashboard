@@ -15,7 +15,7 @@ Interactive multi-page Power BI report analyzing sales performance by product, r
 **Herramientas:** Power BI Desktop, DAX, modelado de datos relacional.
 
 **Archivos:**
-- `Actividad Final.pbix` — el reporte completo (ábrelo con Power BI Desktop, gratuito).
+- `Power BI Sales Dashboard.pbix` — el reporte completo (ábrelo con Power BI Desktop, gratuito).
 - `Tema.json` — tema de colores personalizado usado en el reporte.
 
 ## English
@@ -31,5 +31,5 @@ Interactive multi-page Power BI report analyzing sales performance by product, r
 **Tools:** Power BI Desktop, DAX, relational data modeling.
 
 **Files:**
-- `Actividad Final.pbix` — the full report (open with Power BI Desktop, free to download).
+- `Power BI Sales Dashboard.pbix` — the full report (open with Power BI Desktop, free to download).
 - `Tema.json` — custom color theme used in the report.
