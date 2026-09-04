@@ -32,4 +32,4 @@ Interactive multi-page Power BI report analyzing sales performance by product, r
 
 **Files:**
 - `Power BI Sales Dashboard.pbix` — the full report (open with Power BI Desktop, free to download).
-- `Tema.json` — custom color theme used in the report.
+- `Tema.json` — custom color theme used in the report..
